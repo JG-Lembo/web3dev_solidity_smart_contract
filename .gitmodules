@@ -1,0 +1,3 @@
+[submodule "web3dev_solidity_smart_contract_backend"]
+	path = backend
+	url = https://github.com/JG-Lembo/web3dev_solidity_smart_contract_backend.git
